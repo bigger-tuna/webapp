@@ -1,0 +1,83 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+/*basic page style*/
+
+/*section.content {
+    padding: 3rem 0;
+}*/
+
+.data-summary {
+    color: #fff;
+    text-align: center;
+}
+
+.data-summary h3 {
+    color: #000;
+    font-size: 18px;
+    line-height: 1em;
+    padding-top: 0.8em;
+    text-align: center;
+}
+
+.page-content {
+    padding: 30px 0;
+}
+
+.data-summary h3 span {
+    font-size: 17px;
+}
+.blue {
+    color: #70c1f2;
+    text-decoration-style: solid;
+}
+.orange {
+    color: #eab568;
+}
+.green {
+    color: #9ed8a3;
+}
+.yellow {
+    color: #e26a6a;
+}
+.red {
+    color: #f5d76e;
+}
+
+.channel-data {
+    
+    border-radius: 5px;
+    color: #000;
+  
+}
+.channel-details p{
+    color: #000;
+}
+/*weathercharts*/
+.weather-chart {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+    display: none;
+}
+
+.weather-graphs h2 {
+    color: #ffffff;
+}
+canvas {
+    height: auto !important;
+    max-width: 800px;
+    width: 100% !important;
+}
+/*end of weathercharts*/
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+}
+a {
+    color: #2a7ae2;
+    text-decoration: none;
+}
+
+
